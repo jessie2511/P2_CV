@@ -54,10 +54,9 @@ header
 
 .photo
 {
-	max-width:220px;
-	margin:0;
+	clip-path:circle(42%);
 	border: 2px white solid;
-	border-radius: 50%
+	
 }
 
 /*case nom*/
