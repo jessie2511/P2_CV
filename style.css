@@ -35,7 +35,7 @@ header
 	margin: 0 ;
 	width: 33%;
 	min-width: 384px;
-	background-color: #880E4F;
+	background-color: #5C6BC0;
 }
 
 
@@ -62,12 +62,12 @@ header
 
 .prenom
 {
-	color:#880E4F;
+	color:#5C6BC0;
 }
 
 #souligne
 {
-	border-bottom: 2px solid #880E4F;
+	border-bottom: 2px solid #5C6BC0;
 }
 
 h1
@@ -105,7 +105,7 @@ aside
 	flex-direction: column;
 	width: 33%;
 	min-width: 384px;
-	background-color: #880E4F;
+	background-color: #5C6BC0;
 	margin: 0;
 }
 
@@ -136,7 +136,7 @@ a
 
 a:hover
 {
-	color: blue;
+	color: white;
 }
 
 .a_propos
@@ -155,7 +155,7 @@ aside h3
 	padding-top: 6px;
 	padding-bottom: 6px;
 	background-color: white;
-	color: #880E4F;
+	color: #5C6BC0;
 	text-align: center;
 }
 
@@ -211,7 +211,7 @@ main
 	padding-top: 6px;
 	padding-bottom: 6px;
 	margin-bottom: 20px;
-	border-bottom: 2px solid #880E4F;
+	border-bottom: 2px solid #5C6BC0;
 }
 
 main h3
@@ -223,7 +223,7 @@ main i
 {
 	font-size: 1.8em;
 	padding-right: 20px;
-	color: #880E4F;
+	color: #5C6BC0;
 }
 
 .années
@@ -285,7 +285,7 @@ ul
 li::before
 {
 	content: '\25CF';
-	color: #880E4F;
+	color: #5C6BC0;
 	width: 1em;
 	padding-right: 10px;
 	padding-bottom: 30px;
